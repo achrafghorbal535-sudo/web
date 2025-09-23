@@ -15,7 +15,6 @@
             <h1 class="text-2xl font-bold text-primary">Conceptos Web</h1>
             <nav class="hidden md:flex space-x-8">
                 <a href="#preguntas" class="text-foreground hover:text-primary transition-colors">Preguntas</a>
-                <a href="#contacto" class="text-foreground hover:text-primary transition-colors">Contacto</a>
             </nav>
         </div>
     </header>
