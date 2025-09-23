@@ -86,10 +86,8 @@
         </div>
     </section>
 
-    <!-- Footer -->
-    <footer id="contacto" class="bg-foreground text-white py-12">
-        <div class="container mx-auto px-4 text-center">
-            <p>Contacto: contacto@conceptosweb.com | +34 912 345 678 | Madrid, España</p>
+
+            
             <p class="mt-4 text-muted-foreground">&copy; 2025 Conceptos Web. Todos los derechos reservados.</p>
         </div>
     </footer>
